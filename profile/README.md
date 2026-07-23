@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://wptailwatch.com/?utm_source=github&utm_medium=readme&utm_campaign=free&utm_content=homepage_hero_banner"><img src=".github/assets/wptailwatch-github-cover.gif" alt="WP Tailwatch Overview" width="100%"></a>
+  <a href="https://wptailwatch.com/?utm_source=github&utm_medium=readme&utm_campaign=free&utm_content=homepage_hero_banner"><img src="https://github.com/tailwatch/tailwatch/blob/main/.github/assets/wptailwatch-github-cover.gif" alt="WP Tailwatch Overview" width="100%"></a>
 </p>
 
 ---
